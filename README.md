@@ -1,2 +1,2 @@
-# learning-python
-Learning python
+# Simple Note Python
+
